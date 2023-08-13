@@ -20,12 +20,12 @@ const onRefresh = React.useCallback(async () => {
       ); 
 
       // API call
-      // const API_KEY = 'f20013a067msh7d484d2a2b02360p1485afjsn2a1b59c850a2';
+      // const API_KEY = '';
       // const apiURL =  'https://odds.p.rapidapi.com/v4/sports/baseball_mlb/scores';
       // const options = {
       //   method: 'GET',
       //   headers: {
-      //     'X-RapidAPI-Key': 'f20013a067msh7d484d2a2b02360p1485afjsn2a1b59c850a2',
+      //     'X-RapidAPI-Key': '',
       //     'X-RapidAPI-Host': 'odds.p.rapidapi.com'
       //   }
       // };
